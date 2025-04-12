@@ -18,13 +18,13 @@
 You can install this package directly from GitHub using pip:
 
 ```bash
-pip install git+https://github.com/your_username/viewtree.git
+pip install git+https://github.com/isaamrat/tree_visualizer.git
 ```
 
 For colab you can use the following pip command:
 
 ```bash
-!pip install git+https://github.com/your_username/viewtree.git
+!pip install git+https://github.com/isaamrat/tree_visualizer.git
 ```
 
 ---
